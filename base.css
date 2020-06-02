@@ -1,0 +1,21 @@
+.logo{
+	font-family: Liu Jian Mao Cao, cursive;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+tr:hover{
+	background: rgb(2,80,40);
+}
+div{
+	font-family: Maven Pro, sans-serif;
+}
+
+td{
+	color: white;
+}
+
+.btn-hover:hover{
+	background: silver;
+}
